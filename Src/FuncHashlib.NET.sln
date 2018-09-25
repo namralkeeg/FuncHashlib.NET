@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncHashlib.NET", "FuncHashlib.NET\FuncHashlib.NET.csproj", "{8846B07B-B7B5-43EF-9E62-70DD74BB00F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncHashlib.NET.Tests", "FuncHashlib.NET.Tests\FuncHashlib.NET.Tests.csproj", "{C7B7AE14-336B-4A18-99FB-EBF43805791D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8846B07B-B7B5-43EF-9E62-70DD74BB00F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8846B07B-B7B5-43EF-9E62-70DD74BB00F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8846B07B-B7B5-43EF-9E62-70DD74BB00F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8846B07B-B7B5-43EF-9E62-70DD74BB00F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B7AE14-336B-4A18-99FB-EBF43805791D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B7AE14-336B-4A18-99FB-EBF43805791D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B7AE14-336B-4A18-99FB-EBF43805791D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B7AE14-336B-4A18-99FB-EBF43805791D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7633063-6E28-4A1D-ACD0-90D005181D8B}
+	EndGlobalSection
+EndGlobal
